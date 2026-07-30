@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionRemove.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|solutionrelative:ActionRemove.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionAdd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|solutionrelative:ActionAdd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\Action.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|solutionrelative:Action.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionRemove.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|solutionrelative:ActionRemove.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionUpdate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|solutionrelative:ActionUpdate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|solutionrelative:ActionAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionUpdate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|solutionrelative:ActionUpdate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Song.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\RepositoryExceptions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 411,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActionUpdate.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionUpdate.cpp",
+              "RelativeDocumentMoniker": "ActionUpdate.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionUpdate.cpp",
+              "RelativeToolTip": "ActionUpdate.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-07T10:09:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Service.cpp",
+              "RelativeDocumentMoniker": "..\\Playlist - polymoprhic undo - stub\\Playlist\\Service.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Service.cpp",
+              "RelativeToolTip": "..\\Playlist - polymoprhic undo - stub\\Playlist\\Service.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-07T10:05:19.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActionRemove.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionRemove.cpp",
+              "RelativeDocumentMoniker": "ActionRemove.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionRemove.cpp",
+              "RelativeToolTip": "ActionRemove.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-07T09:57:05.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActionAdd.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionAdd.cpp",
+              "RelativeDocumentMoniker": "ActionAdd.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionAdd.cpp",
+              "RelativeToolTip": "ActionAdd.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-07T09:46:22.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActionUpdate.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionUpdate.h",
+              "RelativeDocumentMoniker": "ActionUpdate.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionUpdate.h",
+              "RelativeToolTip": "ActionUpdate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-07T09:38:58.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Action.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\Action.h",
+              "RelativeDocumentMoniker": "Action.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\Action.h",
+              "RelativeToolTip": "Action.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-07T09:37:51.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionAdd.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionAdd.h",
+              "RelativeDocumentMoniker": "ActionAdd.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionAdd.h",
+              "RelativeToolTip": "ActionAdd.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-07T09:38:09.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActionRemove.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionRemove.h",
+              "RelativeDocumentMoniker": "ActionRemove.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\ActionRemove.h",
+              "RelativeToolTip": "ActionRemove.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-07T09:38:35.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Service.h",
+              "RelativeDocumentMoniker": "..\\Playlist - polymoprhic undo - stub\\Playlist\\Service.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Service.h",
+              "RelativeToolTip": "..\\Playlist - polymoprhic undo - stub\\Playlist\\Service.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-07T09:59:30.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Song.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Song.cpp",
+              "RelativeDocumentMoniker": "..\\Playlist - polymoprhic undo - stub\\Playlist\\Song.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Song.cpp",
+              "RelativeToolTip": "..\\Playlist - polymoprhic undo - stub\\Playlist\\Song.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-07T10:05:18.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Repository.cpp",
+              "RelativeDocumentMoniker": "..\\Playlist - polymoprhic undo - stub\\Playlist\\Repository.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\Repository.cpp",
+              "RelativeToolTip": "..\\Playlist - polymoprhic undo - stub\\Playlist\\Repository.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-07T10:04:42.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryExceptions.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\RepositoryExceptions.cpp",
+              "RelativeDocumentMoniker": "..\\Playlist - polymoprhic undo - stub\\Playlist\\RepositoryExceptions.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\RepositoryExceptions.cpp",
+              "RelativeToolTip": "..\\Playlist - polymoprhic undo - stub\\Playlist\\RepositoryExceptions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-07T10:04:40.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Playlist - polymoprhic undo - stub\\Playlist\\main.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\main.cpp",
+              "RelativeToolTip": "..\\Playlist - polymoprhic undo - stub\\Playlist\\main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-07T09:18:43.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

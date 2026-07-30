@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:Repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:Repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\DynamicVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:DynamicVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\DynamicVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:DynamicVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Weather.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:Weather.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99C1D4F8-CA0C-48B8-A8BD-FF71779929EF}|T1 Weather.vcxproj|solutionrelative:Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 411,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-01T14:23:02.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\UI.cpp",
+              "RelativeDocumentMoniker": "UI.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\UI.cpp",
+              "RelativeToolTip": "UI.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-01T14:08:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Service.h",
+              "RelativeDocumentMoniker": "Service.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Service.h",
+              "RelativeToolTip": "Service.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-01T13:14:13.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Service.cpp",
+              "RelativeDocumentMoniker": "Service.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Service.cpp",
+              "RelativeToolTip": "Service.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-01T13:28:12.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Repository.h",
+              "RelativeDocumentMoniker": "Repository.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Repository.h",
+              "RelativeToolTip": "Repository.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-01T13:13:50.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Repository.cpp",
+              "RelativeDocumentMoniker": "Repository.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Repository.cpp",
+              "RelativeToolTip": "Repository.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-01T13:24:22.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DynamicVector.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\DynamicVector.h",
+              "RelativeDocumentMoniker": "DynamicVector.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\DynamicVector.h",
+              "RelativeToolTip": "DynamicVector.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-01T13:13:38.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DynamicVector.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\DynamicVector.cpp",
+              "RelativeDocumentMoniker": "DynamicVector.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\DynamicVector.cpp",
+              "RelativeToolTip": "DynamicVector.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-01T13:16:00.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Weather.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Weather.h",
+              "RelativeDocumentMoniker": "Weather.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Weather.h",
+              "RelativeToolTip": "Weather.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-01T13:13:16.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weather.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Weather.cpp",
+              "RelativeDocumentMoniker": "Weather.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\Weather.cpp",
+              "RelativeToolTip": "Weather.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-01T13:15:27.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UI.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\UI.h",
+              "RelativeDocumentMoniker": "UI.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Weather\\UI.h",
+              "RelativeToolTip": "UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-01T13:14:23.83Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

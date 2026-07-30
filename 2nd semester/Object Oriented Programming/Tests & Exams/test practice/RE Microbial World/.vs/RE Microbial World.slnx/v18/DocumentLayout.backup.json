@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\REMicrobialWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:REMicrobialWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\REMicrobialWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:REMicrobialWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Bacteria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:Bacteria.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\BacteriaList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:BacteriaList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\biologist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:biologist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Biologist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF1306D4-5A76-4D3F-8487-B5F6EE585B66}|RE Microbial World.vcxproj|solutionrelative:Biologist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "REMicrobialWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\REMicrobialWorld.cpp",
+              "RelativeDocumentMoniker": "REMicrobialWorld.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\REMicrobialWorld.cpp",
+              "RelativeToolTip": "REMicrobialWorld.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-04T09:42:50.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Service.h",
+              "RelativeDocumentMoniker": "Service.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Service.h",
+              "RelativeToolTip": "Service.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-04T08:31:15.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Service.cpp",
+              "RelativeDocumentMoniker": "Service.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Service.cpp",
+              "RelativeToolTip": "Service.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-04T09:25:21.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repo.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Repo.cpp",
+              "RelativeDocumentMoniker": "Repo.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Repo.cpp",
+              "RelativeToolTip": "Repo.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-04T08:57:57.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bacteria.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Bacteria.h",
+              "RelativeDocumentMoniker": "Bacteria.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Bacteria.h",
+              "RelativeToolTip": "Bacteria.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-04T08:48:21.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repo.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Repo.h",
+              "RelativeDocumentMoniker": "Repo.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Repo.h",
+              "RelativeToolTip": "Repo.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-04T08:31:03.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BacteriaList.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\BacteriaList.h",
+              "RelativeDocumentMoniker": "BacteriaList.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\BacteriaList.h",
+              "RelativeToolTip": "BacteriaList.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-04T09:28:48.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "REMicrobialWorld.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\REMicrobialWorld.h",
+              "RelativeDocumentMoniker": "REMicrobialWorld.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\REMicrobialWorld.h",
+              "RelativeToolTip": "REMicrobialWorld.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-04T09:40:22.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-04T09:45:47.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "biologist.txt",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\biologist.txt",
+              "RelativeDocumentMoniker": "biologist.txt",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\biologist.txt",
+              "RelativeToolTip": "biologist.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-04T16:34:10.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Biologist.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Biologist.h",
+              "RelativeDocumentMoniker": "Biologist.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Microbial World\\Biologist.h",
+              "RelativeToolTip": "Biologist.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-04T08:44:33.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1545,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Seminar 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B907C117-B85E-4C55-8C78-8D5D4104D8AD}|Seminar 5.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 411,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Playlist - polymoprhic undo - stub\\Playlist\\main.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\seminars\\Playlist - polymoprhic undo - stub\\Playlist\\main.cpp*",
+              "RelativeToolTip": "..\\Playlist - polymoprhic undo - stub\\Playlist\\main.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-07T09:18:43.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.11.0
+  DriverMap.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\RE Driver Connect\Service.h(14,71): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'DriverMap.cpp')
+  
+  RE Driver Connect.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\test practice\RE Driver Connect\x64\Debug\RE Driver Connect.exe

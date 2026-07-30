@@ -1,0 +1,19 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (C:/Qt/6.11.0/msvc2022_64/bin/qmake)
+   Qt: 6.11.0
+  moc REScreenWriter.h
+  REScreenWriter.cpp
+  Repo.cpp
+  Service.cpp
+  main.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\RE ScreenWriter\IdeaList.h(14,69): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'REScreenWriter.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\RE ScreenWriter\IdeaList.h(14,69): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  moc_REScreenWriter.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\RE ScreenWriter\IdeaList.h(14,69): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RE%20ScreenWriter/x64/Debug/qt/moc/moc_REScreenWriter.cpp')
+  
+  RE ScreenWriter.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\test practice\RE ScreenWriter\x64\Debug\RE ScreenWriter.exe

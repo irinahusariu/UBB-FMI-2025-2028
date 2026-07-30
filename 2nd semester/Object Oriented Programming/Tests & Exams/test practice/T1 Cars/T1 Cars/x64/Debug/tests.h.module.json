@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "T1 Cars\\x64\\Debug\\tests.h.obj",
+            "outputs": [
+                "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Cars\\T1 Cars\\x64\\Debug\\vc145.pdb",
+                "T1 Cars\\x64\\Debug\\",
+                "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Cars\\T1 Cars\\x64\\Debug\\tests.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "tests.h",
+                    "source-path": "c:\\users\\irina\\desktop\\facultate\\oop\\test practice\\t1 cars\\tests.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

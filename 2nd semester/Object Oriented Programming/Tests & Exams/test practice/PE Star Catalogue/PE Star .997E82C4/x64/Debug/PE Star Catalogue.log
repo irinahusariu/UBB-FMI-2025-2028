@@ -1,0 +1,11 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.11.0
+  AstronomerWindow.cpp
+  main.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Star Catalogue\StarsListModel.h(12,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Star Catalogue\StarsListModel.h(12,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'AstronomerWindow.cpp')
+  
+  PE Star Catalogue.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\test practice\PE Star Catalogue\x64\Debug\PE Star Catalogue.exe

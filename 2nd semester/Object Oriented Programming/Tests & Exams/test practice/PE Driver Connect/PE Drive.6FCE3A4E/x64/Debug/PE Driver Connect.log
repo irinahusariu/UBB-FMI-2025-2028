@@ -1,0 +1,36 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.11.0
+  PEDriverConnect.cpp
+  Repo.cpp
+  Service.cpp
+  main.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\Report.h(29,56): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Repo.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\Report.h(29,56): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Service.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\Service.h(14,73): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Service.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\Report.h(29,56): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\Report.h(29,56): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'PEDriverConnect.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\ReportsListModel.h(12,71): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\ReportsListModel.h(12,71): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'PEDriverConnect.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\ReportsListModel.h(37,1): warning C4715: 'ReportListModel::data': not all control paths return a value
+  moc_PEDriverConnect.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\Report.h(29,56): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'PE%20Drive.6FCE3A4E/x64/Debug/qt/moc/moc_PEDriverConnect.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\ReportsListModel.h(12,71): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'PE%20Drive.6FCE3A4E/x64/Debug/qt/moc/moc_PEDriverConnect.cpp')
+  
+  PE Driver Connect.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\test practice\PE Driver Connect\x64\Debug\PE Driver Connect.exe

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSetIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|solutionrelative:SortedSetIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSetIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|solutionrelative:SortedSetIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|solutionrelative:SortedSet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\ShortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|solutionrelative:ShortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|solutionrelative:SortedSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53C4B626-021B-44E6-A755-606093FDCAF4}|SortedSet DynArr.vcxproj|solutionrelative:App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 43,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortedSet.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSet.h",
+              "RelativeDocumentMoniker": "SortedSet.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSet.h",
+              "RelativeToolTip": "SortedSet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-26T19:39:26.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortedSet.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSet.cpp",
+              "RelativeDocumentMoniker": "SortedSet.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSet.cpp",
+              "RelativeToolTip": "SortedSet.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T07:21:59.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShortTest.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\ShortTest.cpp",
+              "RelativeDocumentMoniker": "ShortTest.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\ShortTest.cpp",
+              "RelativeToolTip": "ShortTest.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-26T18:56:10.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortedSetIterator.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSetIterator.cpp",
+              "RelativeDocumentMoniker": "SortedSetIterator.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSetIterator.cpp",
+              "RelativeToolTip": "SortedSetIterator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T07:21:57.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortedSetIterator.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSetIterator.h",
+              "RelativeDocumentMoniker": "SortedSetIterator.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\SortedSetIterator.h",
+              "RelativeToolTip": "SortedSetIterator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-25T07:21:51.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\App.cpp",
+              "RelativeDocumentMoniker": "App.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedSet Dynamic Array\\SortedSet DynArr\\App.cpp",
+              "RelativeToolTip": "App.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-26T17:53:15.424Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 552,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

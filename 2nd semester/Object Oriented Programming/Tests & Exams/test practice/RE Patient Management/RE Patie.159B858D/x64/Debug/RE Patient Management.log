@@ -1,0 +1,8 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (C:/Qt/6.11.0/msvc2022_64/bin/qmake)
+   Qt: 6.11.0
+  main.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\RE Patient Management\PatientModel.h(13,72): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  RE Patient Management.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\test practice\RE Patient Management\x64\Debug\RE Patient Management.exe

@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|solutionrelative:Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|solutionrelative:Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\questions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|solutionrelative:questions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\PresenterWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|solutionrelative:PresenterWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|solutionrelative:Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|solutionrelative:Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Question.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|solutionrelative:Question.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Participant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|solutionrelative:Participant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\PresenterWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E8AE2C-C290-441B-AF26-E4DD4A530071}|RE Quiz.vcxproj|solutionrelative:PresenterWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repo.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Repo.cpp",
+              "RelativeDocumentMoniker": "Repo.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Repo.cpp",
+              "RelativeToolTip": "Repo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-05T09:42:18.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repo.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Repo.h",
+              "RelativeDocumentMoniker": "Repo.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Repo.h",
+              "RelativeToolTip": "Repo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-05T09:42:09.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Question.h",
+              "RelativeDocumentMoniker": "Question.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Question.h",
+              "RelativeToolTip": "Question.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-05T09:42:00.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PresenterWindow.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\PresenterWindow.cpp",
+              "RelativeDocumentMoniker": "PresenterWindow.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\PresenterWindow.cpp",
+              "RelativeToolTip": "PresenterWindow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-05T09:16:43.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Service.h",
+              "RelativeDocumentMoniker": "Service.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Service.h",
+              "RelativeToolTip": "Service.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-05T09:02:53.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Service.cpp",
+              "RelativeDocumentMoniker": "Service.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Service.cpp",
+              "RelativeToolTip": "Service.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-05T09:14:07.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-05T09:31:10.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "questions.txt",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\questions.txt",
+              "RelativeDocumentMoniker": "questions.txt",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\questions.txt",
+              "RelativeToolTip": "questions.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-05T09:36:24.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Participant.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Participant.h",
+              "RelativeDocumentMoniker": "Participant.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\Participant.h",
+              "RelativeToolTip": "Participant.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-05T09:41:31.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PresenterWindow.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\PresenterWindow.h",
+              "RelativeDocumentMoniker": "PresenterWindow.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Quiz\\PresenterWindow.h",
+              "RelativeToolTip": "PresenterWindow.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-05T09:22:02.044Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1545,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

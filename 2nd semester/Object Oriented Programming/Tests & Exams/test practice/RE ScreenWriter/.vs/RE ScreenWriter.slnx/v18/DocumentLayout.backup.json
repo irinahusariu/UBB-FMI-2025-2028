@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\episode.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:episode.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\REScreenWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:REScreenWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\REScreenWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:REScreenWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Idea.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:Idea.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\ideas.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:ideas.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\writers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:writers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\IdeaList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB15C6C-47D5-4079-B227-D1FB0BF2824C}|RE ScreenWriter.vcxproj|solutionrelative:IdeaList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "episode.txt",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\episode.txt",
+              "RelativeDocumentMoniker": "episode.txt",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\episode.txt*",
+              "RelativeToolTip": "episode.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-04T06:35:27.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Idea.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Idea.h",
+              "RelativeDocumentMoniker": "Idea.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Idea.h",
+              "RelativeToolTip": "Idea.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T18:31:02.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-03T17:42:29.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "REScreenWriter.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\REScreenWriter.cpp",
+              "RelativeDocumentMoniker": "REScreenWriter.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\REScreenWriter.cpp*",
+              "RelativeToolTip": "REScreenWriter.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-03T17:37:43.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repo.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Repo.h",
+              "RelativeDocumentMoniker": "Repo.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Repo.h*",
+              "RelativeToolTip": "Repo.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T11:31:01.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repo.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Repo.cpp",
+              "RelativeDocumentMoniker": "Repo.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Repo.cpp*",
+              "RelativeToolTip": "Repo.cpp*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAvwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-03T11:34:13.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "REScreenWriter.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\REScreenWriter.h",
+              "RelativeDocumentMoniker": "REScreenWriter.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\REScreenWriter.h*",
+              "RelativeToolTip": "REScreenWriter.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T17:09:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Service.h",
+              "RelativeDocumentMoniker": "Service.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Service.h*",
+              "RelativeToolTip": "Service.h*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T16:57:38.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Service.cpp",
+              "RelativeDocumentMoniker": "Service.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\Service.cpp*",
+              "RelativeToolTip": "Service.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-03T17:05:30.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ideas.txt",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\ideas.txt",
+              "RelativeDocumentMoniker": "ideas.txt",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\ideas.txt",
+              "RelativeToolTip": "ideas.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-03T18:14:24.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "writers.txt",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\writers.txt",
+              "RelativeDocumentMoniker": "writers.txt",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\writers.txt",
+              "RelativeToolTip": "writers.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-03T18:14:22.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IdeaList.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\IdeaList.h",
+              "RelativeDocumentMoniker": "IdeaList.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE ScreenWriter\\IdeaList.h",
+              "RelativeToolTip": "IdeaList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T17:11:17.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1545,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

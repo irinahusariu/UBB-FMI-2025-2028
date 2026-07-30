@@ -1,0 +1,20 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (C:/Qt/6.11.0/msvc2022_64/bin/qmake)
+   Qt: 6.11.0
+  Service.cpp
+  Student.cpp
+  Utils.cpp
+  Repository.cpp
+  Seminar6personal.cpp
+  main.cpp
+C:\Users\irina\Desktop\facultate\OOP\seminars\Seminar 6\Seminar 6 personal\Repository.h(15,50): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Service.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\seminars\Seminar 6\Seminar 6 personal\Repository.h(15,50): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Repository.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\seminars\Seminar 6\Seminar 6 personal\Utils.cpp(11,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\irina\Desktop\facultate\OOP\seminars\Seminar 6\Seminar 6 personal\Utils.cpp(14,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  qrc_Seminar6personal.cpp
+  moc_Seminar6personal.cpp
+  Seminar 6 personal.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\seminars\Seminar 6\Seminar 6 personal\x64\Debug\Seminar 6 personal.exe

@@ -1,0 +1,6 @@
+﻿  Person.cpp
+  UI.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\T2 Medical Analyses\UI.cpp(63,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\irina\Desktop\facultate\OOP\test practice\T2 Medical Analyses\UI.cpp(63,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  T2 Medical Analyses.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\test practice\T2 Medical Analyses\x64\Debug\T2 Medical Analyses.exe

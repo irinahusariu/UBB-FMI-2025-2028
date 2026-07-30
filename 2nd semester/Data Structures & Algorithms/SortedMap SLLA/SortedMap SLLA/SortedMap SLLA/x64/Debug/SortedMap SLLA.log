@@ -1,0 +1,12 @@
+﻿  App.cpp
+  ExtendedTest.cpp
+C:\Users\irina\Desktop\facultate\DSA\SortedMap SLLA\SortedMap SLLA\ExtendedTest.cpp(116,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\irina\Desktop\facultate\DSA\SortedMap SLLA\SortedMap SLLA\ExtendedTest.cpp(126,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\irina\Desktop\facultate\DSA\SortedMap SLLA\SortedMap SLLA\ExtendedTest.cpp(134,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\irina\Desktop\facultate\DSA\SortedMap SLLA\SortedMap SLLA\ExtendedTest.cpp(142,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\irina\Desktop\facultate\DSA\SortedMap SLLA\SortedMap SLLA\ExtendedTest.cpp(251,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ShortTest.cpp
+  SMIterator.cpp
+  SortedMap.cpp
+  Generating Code...
+  SortedMap SLLA.vcxproj -> C:\Users\irina\Desktop\facultate\DSA\SortedMap SLLA\SortedMap SLLA\x64\Debug\SortedMap SLLA.exe

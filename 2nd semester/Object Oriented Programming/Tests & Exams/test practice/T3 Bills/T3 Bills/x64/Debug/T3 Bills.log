@@ -1,0 +1,11 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.11.0
+  moc T3Bills.h
+  Bills.cpp
+  Service.cpp
+  T3Bills.cpp
+  main.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\T3 Bills\Service.cpp(70,1): warning C4715: 'Service::totalSum': not all control paths return a value
+  qrc_T3Bills.cpp
+  moc_T3Bills.cpp
+  T3 Bills.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\test practice\T3 Bills\x64\Debug\T3 Bills.exe

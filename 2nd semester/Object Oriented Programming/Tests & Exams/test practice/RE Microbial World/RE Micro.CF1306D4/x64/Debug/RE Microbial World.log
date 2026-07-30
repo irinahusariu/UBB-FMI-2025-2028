@@ -1,0 +1,16 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.11.0
+  moc REMicrobialWorld.h
+  REMicrobialWorld.cpp
+  main.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\RE Microbial World\BacteriaList.h(13,73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'REMicrobialWorld.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\RE Microbial World\BacteriaList.h(13,73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  moc_REMicrobialWorld.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\RE Microbial World\BacteriaList.h(13,73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RE%20Micro.CF1306D4/x64/Debug/qt/moc/moc_REMicrobialWorld.cpp')
+  
+  RE Microbial World.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\test practice\RE Microbial World\x64\Debug\RE Microbial World.exe

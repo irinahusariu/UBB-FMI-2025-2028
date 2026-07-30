@@ -1,0 +1,26 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.11.0
+  ProgrammerWindow.cpp
+  Repo.cpp
+  Service.cpp
+  TesterWindow.cpp
+  main.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Programmers Issues\IssueListModel.h(12,70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'TesterWindow.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Programmers Issues\IssueListModel.h(12,70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Programmers Issues\IssueListModel.h(12,70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ProgrammerWindow.cpp')
+  
+  qrc_PEProgrammersIssues.cpp
+  moc_ProgrammerWindow.cpp
+  moc_TesterWindow.cpp
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Programmers Issues\IssueListModel.h(12,70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'PE%20Progr.8B16823F/x64/Debug/qt/moc/moc_TesterWindow.cpp')
+  
+C:\Users\irina\Desktop\facultate\OOP\test practice\PE Programmers Issues\IssueListModel.h(12,70): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'PE%20Progr.8B16823F/x64/Debug/qt/moc/moc_ProgrammerWindow.cpp')
+  
+  PE Programmers Issues.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\test practice\PE Programmers Issues\x64\Debug\PE Programmers Issues.exe

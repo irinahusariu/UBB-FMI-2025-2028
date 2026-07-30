@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "T1 Cars\\x64\\Debug\\tests.obj",
+            "outputs": [
+                "T1 Cars\\x64\\Debug\\tests.h_E70C67625A219672.ifc.dt.module.json",
+                "T1 Cars\\x64\\Debug\\tests.h_E70C67625A219672.ifc.dt.d.json",
+                "T1 Cars\\x64\\Debug\\tests.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\T1 Cars\\tests.h",
+                    "source-path": "c:\\users\\irina\\desktop\\facultate\\oop\\test practice\\t1 cars\\tests.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 6.11.0
+  moc CollectorWindow.h
+  CollectorWindow.cpp
+  main.cpp
+  moc_CollectorWindow.cpp
+  RE Art Auction 3.vcxproj -> C:\Users\irina\Desktop\facultate\OOP\test practice\RE Art Auction 3\x64\Debug\RE Art Auction 3.exe

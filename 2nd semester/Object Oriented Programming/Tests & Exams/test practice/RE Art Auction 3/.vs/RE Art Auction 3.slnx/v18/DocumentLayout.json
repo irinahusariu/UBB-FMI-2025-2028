@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\CollectorWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:CollectorWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\CollectorWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:CollectorWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\AdminWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:AdminWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\items.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:items.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\AdminWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:AdminWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29A158A5-5E30-4134-9B99-0DFCC5F633C5}|RE Art Auction 3.vcxproj|solutionrelative:Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectorWindow.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\CollectorWindow.cpp",
+              "RelativeDocumentMoniker": "CollectorWindow.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\CollectorWindow.cpp",
+              "RelativeToolTip": "CollectorWindow.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-03T07:41:10.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\AdminWindow.cpp",
+              "RelativeDocumentMoniker": "AdminWindow.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\AdminWindow.cpp",
+              "RelativeToolTip": "AdminWindow.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-03T06:36:15.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T06:37:29.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Item.h",
+              "RelativeDocumentMoniker": "Item.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Item.h",
+              "RelativeToolTip": "Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T06:37:03.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "users.txt",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\users.txt",
+              "RelativeDocumentMoniker": "users.txt",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\users.txt",
+              "RelativeToolTip": "users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-03T07:51:04.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectorWindow.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\CollectorWindow.h",
+              "RelativeDocumentMoniker": "CollectorWindow.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\CollectorWindow.h",
+              "RelativeToolTip": "CollectorWindow.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T07:41:51.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repo.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Repo.h",
+              "RelativeDocumentMoniker": "Repo.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Repo.h",
+              "RelativeToolTip": "Repo.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T06:38:02.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repo.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Repo.cpp",
+              "RelativeDocumentMoniker": "Repo.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Repo.cpp",
+              "RelativeToolTip": "Repo.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-03T06:38:19.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-03T06:39:42.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "items.txt",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\items.txt",
+              "RelativeDocumentMoniker": "items.txt",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\items.txt",
+              "RelativeToolTip": "items.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-03T08:11:14.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Service.cpp",
+              "RelativeDocumentMoniker": "Service.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Service.cpp",
+              "RelativeToolTip": "Service.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-03T06:39:17.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Service.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Service.h",
+              "RelativeDocumentMoniker": "Service.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Service.h",
+              "RelativeToolTip": "Service.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T06:38:56.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Observer.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Observer.h",
+              "RelativeDocumentMoniker": "Observer.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\Observer.h",
+              "RelativeToolTip": "Observer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T06:40:38.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminWindow.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\AdminWindow.h",
+              "RelativeDocumentMoniker": "AdminWindow.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\OOP\\test practice\\RE Art Auction 3\\AdminWindow.h",
+              "RelativeToolTip": "AdminWindow.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-03T06:41:30.252Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1545,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

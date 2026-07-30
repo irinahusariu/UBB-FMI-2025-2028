@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\SortedIndexeList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|solutionrelative:SortedIndexeList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\SortedIndexedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|solutionrelative:SortedIndexedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\ListIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|solutionrelative:ListIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\ListIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|solutionrelative:ListIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\ExtendedTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|solutionrelative:ExtendedTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65A0C1F4-0529-4BC4-ACDA-FBB0EC1FF66A}|SortedList BST.vcxproj|solutionrelative:App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortedIndexedList.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\SortedIndexedList.h",
+              "RelativeDocumentMoniker": "SortedIndexedList.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\SortedIndexedList.h",
+              "RelativeToolTip": "SortedIndexedList.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-02T16:11:07.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortedIndexeList.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\SortedIndexeList.cpp",
+              "RelativeDocumentMoniker": "SortedIndexeList.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\SortedIndexeList.cpp",
+              "RelativeToolTip": "SortedIndexeList.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAA8BAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-02T16:11:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListIterator.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\ListIterator.cpp",
+              "RelativeDocumentMoniker": "ListIterator.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\ListIterator.cpp",
+              "RelativeToolTip": "ListIterator.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-03T10:29:47.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListIterator.h",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\ListIterator.h",
+              "RelativeDocumentMoniker": "ListIterator.h",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\ListIterator.h",
+              "RelativeToolTip": "ListIterator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-02T16:11:02.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtendedTest.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\ExtendedTest.cpp",
+              "RelativeDocumentMoniker": "ExtendedTest.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\ExtendedTest.cpp",
+              "RelativeToolTip": "ExtendedTest.cpp",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAP0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-03T09:20:11.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.cpp",
+              "DocumentMoniker": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\App.cpp",
+              "RelativeDocumentMoniker": "App.cpp",
+              "ToolTip": "C:\\Users\\irina\\Desktop\\facultate\\DSA\\SortedList BST\\SortedList BST\\App.cpp",
+              "RelativeToolTip": "App.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-02T16:10:52.426Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1545,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
